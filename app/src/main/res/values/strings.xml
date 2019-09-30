@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieAppStage2</string>
+    <string name="most_popular_setting">Most Popular</string>
+    <string name="top_rated_setting">Top Rated</string>
+    <string name="favorites_setting">Favorite Movies</string>
+    <string name="api_key">f20d6b74956af8e8c153eb39ac133525</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_of_movie">Movie Title</string>
+    <string name="detail_of_movie">Movie Details</string>
+    <string name="rate">Rating</string>
+    <string name="mostpop">Most Populare</string>
+    <string name="release">Released Date</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="highestRate">High Rated</string>
+    <string name="sortOrder">Sortorder</string>
+    <string name="topRateSort">Sort By TopRated</string>
+    <string name="populareSort">Sort BY MostPopular</string>
+    <string-array name="sort_types">
+        <item>Most Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+</resources>
